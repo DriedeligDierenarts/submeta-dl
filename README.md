@@ -5,6 +5,8 @@ This script downloads the entire course from SUBMETA.io from the course URL. A v
 1. Python
 2. yt-dlp
 3. aria2c
+4. beautifulsoup4
+5. tqdm
 
 ## Usage
 ```
